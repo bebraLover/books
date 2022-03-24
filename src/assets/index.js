@@ -1,0 +1,7 @@
+export const logo = require('./logo.png')
+export const friends = require('./friends.png')
+export const notification = require('./notification.png')
+export const bookmark = require('./bookmark.png')
+export const dashboard = require('./dashboard.png')
+export const settings = require('./settings.png')
+export const settings1 = require('./settings-outline.svg')
